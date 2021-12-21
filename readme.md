@@ -1,6 +1,7 @@
 # Amazon Data Scraper API with ScraperAPI
 
 ## App link: 🔗 https://junaid-amazon-scraper.herokuapp.com/
+## Video Demo: (How to use) : https://youtu.be/A6u_Wg5pgcE
 
 #### Learned from JavaScript Mastery: https://youtu.be/be9sHQ7xqo0
 
