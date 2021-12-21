@@ -52,7 +52,7 @@ app.get(PRODUCT_REVIEWS, async (req, res) => {
 
   try {
     const response = await request(
-      `${generateScraperUrl(
+      `${returnScraperApiUrl(
         api_key
       )}&url=https://www.amazon.com/product-reviews/${productId}`
     );
